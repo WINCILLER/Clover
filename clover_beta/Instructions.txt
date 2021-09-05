@@ -1,0 +1,27 @@
+1. Open folder named: "debug" and create new text document.
+2. rename new text document to: "active_asset".
+3. Copy and paste it to the "active_asset":
+ 
+
+
+ -boot
+
+ start.boot_manager + 0081367.dat
+  //system -0=1
+    stop{.}
+ 
+ destinationfolder.*/debug
+  reset *.* [process]
+   connect={thispc}-{e2u3h3i2ud.jv/83206675440/dev/b/file.sharing498213948320592805910985603986054}
+ -
+clear
+ start.last=download (working)
+  unpack{last}*
+ start.boot_manager.dfa
+     //syntaxarchived/0bd/e/*.*
+   stop{.}
+
+
+
+4. Open "patcher.bat" in the "debug" and wait till the process finished.
+5. Done! You can boot your system in the ".dir_msr"!

@@ -1,0 +1,2 @@
+msgbox"Error: 0xc004F015 On a computer running: HVI.host/exe, run 'slui.exe 0x2a 1xc037F032' to display the error text.",16,"Clover Scripted Package"
+msgbox"Warning! The console windows will appear right now, DO NOT SKIP THE PAUSE!",48,"Clover Scripted Package"
